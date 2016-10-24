@@ -149,22 +149,9 @@ body .screen .header top-bar .index footer letter {
 .post2 {
     background-color: green;
 }
-/*@media screen and (min-width:600px) {
-  nav {
-    float: left;
-    width: 25%;
-  }
-  section {
-    margin-left: 25%;
-  }
-}
-@media screen and (max-width:599px) {
-  all divs {
-    display: none;
-  }
-}*/
 
 
-body ={
+/*
+add media query at the end with code to call remove all and only show html secion that alerts content is to be displayed on mobile screns only:
 
-}
+*/

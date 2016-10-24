@@ -1,0 +1,170 @@
+body .screen .header top-bar .index footer letter {
+  padding 0;
+  border: 0;
+  margin: 0;
+  font-size: 100%;
+  font-family: sans-serif;
+}
+
+
+.screen {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -7px;
+    width: 300px;
+    height: 535px;
+    background-color: #f7fafa;
+}
+
+.screen2 {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    top: -7px;
+    width: 300px;
+    height: 535px;
+    background-color: #f2f7f9;
+}
+
+
+.header {
+      position: relative;
+      top: 0px;
+      right: 8px;
+      border-bottom: 1px solid #eaedee;
+
+}
+
+.header img {
+      width: 308px;
+}
+
+
+.index ul {
+    list-style-type: none;
+    padding-top: 8px;
+    padding-right: 7px;
+    float: right;
+    font-size: 7px;
+    font-family: sans-serif;
+    font-weight: bold;
+    color: #7e92a6;
+}
+
+.index ul li {
+  padding-top: 7px;
+}
+
+.letter {
+  margin-left: 10px;
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #7e92a6;
+}
+
+.star {
+  position: relative;
+  bottom: 0px;
+  right: 0px;
+  margin-left: 0px;
+  color: #4bd5fd;
+}
+
+.person {
+  margin-left: 40px;
+}
+
+.person img {
+  float: left;
+  width: 33px;
+}
+
+.person ul {
+  list-style-type: none;
+  padding-left: 50px;
+}
+
+.person ul li a{
+    text-decoration: none;
+    color: #262626;
+}
+
+.person .name {
+  font-size: 12px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #262626;
+  padding-bottom: 4px;
+  text-decoration: none;
+}
+
+.person .company {
+  font-size: 8px;
+  font-family: sans-serif;
+  font-weight: bold;
+  color: #8a9cae;
+  padding-top: 4px;
+}
+
+
+.footer {
+      position: relative;
+      bottom: 33px;
+      right: 7px;
+      border-top: 1px solid #eaedee;
+      /*height: 60px;*/
+}
+
+.footer img {
+      width: 306px;
+
+}
+
+
+.profile {
+  width: 276px;
+  height: 325px;
+  border-radius: 5px;
+  background-color: #ffffff;
+  margin: 20px auto;
+}
+
+.profile img{
+  width: 276px;
+}
+
+.face img{
+  width: 46px;
+  position: relative;
+  top: -34px;
+  left: 115px;
+}
+
+.post1 {
+    background-color: blue;
+}
+
+.post2 {
+    background-color: green;
+}
+/*@media screen and (min-width:600px) {
+  nav {
+    float: left;
+    width: 25%;
+  }
+  section {
+    margin-left: 25%;
+  }
+}
+@media screen and (max-width:599px) {
+  all divs {
+    display: none;
+  }
+}*/
+
+
+body ={
+
+}
